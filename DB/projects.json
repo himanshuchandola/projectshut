@@ -1,4 +1,20 @@
-[
+[{
+  "github_username": "Virajjai",  
+  "Projects": [
+    {
+      "github_url": "https://github.com/Virajjai/pay-2",
+      "title": "PayFlex",
+      "description": "PayFlex: A secure, scalable payment gateway with seamless API integration for real-time transaction processing and analytics.",
+      "tech": ["Turborepo", "typescript","Prisma"]
+    },
+    {
+      "github_url": "https://github.com/Virajjai/Blogging-Site",
+      "title": "Blogify",
+      "description": "Blogify: A scalable, serverless blogging platform powered by Hono, Prisma, and PostgreSQL. Features include real-time content publishing, robust API integration, and customizable user interfaces.",
+      "tech": ["Cloudflares", "Hono"]
+    }
+  ]
+},
   {
     "github_username": "RoopkumarD",
     "Projects": [
@@ -7,6 +23,23 @@
         "title": "Introspecta",
         "description": "A web diary app which let's you write encrypted diary entries stored securely in your browser.",
         "tech": ["svelte", "sveltekit", "tailwindcss", "libsodium", "msgpackr", "typescript"]
+      }
+    ]
+  },
+   {
+    "github_username": "salmasyed1909",
+    "Projects": [
+      {
+        "github_url": "https://github.com/salmasyed1909/chatbot-project",
+        "title": "Chatbot-project",
+        "description": "mini chatbot",
+        "tech": ["python","NLP","Machine learning"]
+      },
+       {
+        "github_url": "https://github.com/salmasyed1909/MY_PORTFOLIO",
+        "title": "portfolio",
+        "description": "DEScribes about me",
+        "tech": ["HTML","CSS","JavaScript"]
       }
     ]
   },
@@ -3794,6 +3827,34 @@
         "title": "Self Hosting - Pi Server",
         "description": "Setup a home server using a Raspberry Pi",
         "tech": ["html", "css", "javascript"]
+      }
+    ]
+  },
+  {
+        "github_username": "Siddharth-Dagar-25",  
+        "Projects": [
+          {
+            "github_url": "https://github.com/Siddharth-Dagar-25/Geet-Music-Player",
+            "title": "Geet - Music Player",
+            "description": "Geet is a music player, sleek and intuitive web-based music player designed to bring your favorite tunes to life with ease and style.",
+            "tech": ["react", "javascript"]
+          }
+        ]
+  },
+  {
+    "github_username": "Adeesh-bode",
+    "Projects": [
+      {
+        "github_url": "https://github.com/Adeesh-bode/E-comXboAt",
+        "title": "E-comXboAt",
+        "description": "Developed an e-commerce platform with React and Strapi CMS",
+        "tech": ["react", "js" , "strapi" , "sass css"]
+      },
+      {
+        "github_url": "https://github.com/Adeesh-bode/Shelf-Space",
+        "title": "Shelf-space",
+        "description": "Built an online book store management web app",
+        "tech": ["react", "tailwindcss","postmanapi","expressjs","nodejs","mongoosejs","mongodb"]
       }
     ]
   }
